@@ -1,0 +1,24 @@
+*{
+	font-family: Arial;
+}
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+}
+table{
+	width: 900px;
+	border-style: solid;
+	border-width: thin;
+}
+th{
+	background-color: #145178;
+	color: #fff;
+	padding: 5px;
+}
+td{
+	padding: 5px;
+}
+a{
+	font-weight: bold;
+	color: #145178;
+}
